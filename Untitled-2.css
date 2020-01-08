@@ -10,6 +10,7 @@
 html{
     width: 410px;
     background:#FCDADB;
+    -webkit-text-size-adjust:100%;
 }
 body{
     background: #FFF;
