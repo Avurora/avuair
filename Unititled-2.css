@@ -1,0 +1,114 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    width: 410px;
+    background:#FCDADB;
+}
+body{
+    background: #FFF;
+}
+p{
+    font-size: 11px;
+    line-height: 30px
+}
+
+
+
+
+
+
+
+.center-margin{
+    text-align: center;
+}
+
+.main-title1{
+ margin: 0 0 0 20px;
+}
+
+.Commentary{
+    margin: 10px 0 0 20px
+}
+.Overview{
+    margin: 20px;
+}
+
+
+
+/*表---------------------------------------------------------------------*/
+.line{
+    border: 3px #77b8d3 solid;
+    margin: 0 0 30px 0;
+}
+.main-title2{
+    margin: 20px;
+}
+
+
+/*立ち回り-----------------------------------------------------------------*/
+.or{
+    margin: -20px 0 20px 0;
+}
+.color-red{
+    color: red;
+}
+.color-purple{
+    color: purple;
+}
+.color-yellow{
+    color: yellow;
+}
+.color-rainbow{
+    color: rainbow;
+}
+.color-blue{
+    color: blue;
+}
+.color-green{
+    color: green;
+}
+h5{
+    margin: 20px;
+}
+.Commentary2{
+    margin: 0 0 0 50px;
+}
+.background-blue{
+    background: #bce3f4;
+    padding: 10px 0 30px 0 ; 
+}
+
+/*ジェム狙い---------------------------------------------------------------------*/
+.Overview2{
+    margin: 0 0 0 180px;
+}
+.Overview3{
+    margin-left: 100px;
+}
+/*last---------------------------------------------------------------------*/
+.Commentary3{
+    margin-left: 240px;
+}
+h1{
+    margin-left: 130px;
+    border-bottom: 3px #000 solid;
+    width: 215px
+}
+.line2{
+    border: 30px #77b8d3 solid;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+/*表---------------------------------------------------------------------*/
+/*表---------------------------------------------------------------------*/
+
+
+
+
