@@ -1,0 +1,82 @@
+@charset "UTF-8";
+/* CSS Document */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    width: 410px;
+    background:#FCDADB;
+    -webkit-text-size-adjust:100%;
+}
+body{
+    background: #FFF;
+}
+p{
+    font-size: 11px;
+    line-height: 30px
+}
+
+
+
+
+.green{
+    color: green;
+}
+.deta-all{
+    width: 390px;
+    margin-left: 10px;
+    text-align: center;
+}
+.deta-all{
+    font-size: 10px;
+}
+.skill{
+    width: 140px;
+}
+.seen-name{
+    width: 100px;
+}
+
+.blue{
+    color: blue;
+}
+.red{
+    color: red;
+}
+.orange{
+    color: orange;
+}
+.sab{
+     background: #C8FFDB;
+    padding:30px 0;
+}
+.sab h3{
+    margin-left: 10px;
+}
+.sab2{
+     background: #97FFBA;
+    padding:30px 0;
+}
+.sab2 h3{
+    margin-left: 10px;
+}
+
+.sab3{
+     background: #55FF8E;
+    padding:30px 0;
+}
+.sab3 h3{
+    margin-left: 10px;
+}
+
+
+
+
+
+
+/*ボタン指示---------------------------------*/
+.green-list{
+    display: none;
+}
