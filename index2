@@ -1,0 +1,273 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Uni's on Air　攻略</title>
+        <meta name="viewport" content="width=410px">
+    <link rel="stylesheet" href="Untitled-3.css">
+    <script src="jquery-3.4.1.min.js"></script>
+    
+
+</head>
+
+<body>
+    
+    
+    
+    
+    <div class="center-margin">
+        <img src="01.png" alt="" width="410px">
+    </div>
+    
+    
+    
+    
+    <h2 class="green" id="green">Green▼</h2>
+    <div class="green-list" id="green-list">
+    
+    
+    
+<!--        S--------------------------------------------------->  
+<div class="sab"><h3>S評価</h3>
+    <div class="deta-all">  
+        <table border="1" style="border-collapse: collapse">
+            <tr>
+                <th>ビジュアル</th>
+                <th>カード名</th>
+                <th class="skill">スキル</th>
+                <th>ステータス</th>
+            </tr>
+
+            <tr>
+                <td><img src="12.png" alt="" width="80px"></td>
+                <td class="seen-name">秋服 高本彩花</td>
+                <td>7秒おきに28%の確率で
+                    6秒間PERFECTの
+                    スコア19%UP</td>
+                <td>all 10301<br>
+                    <span class="blue">Da</span> 3726<br>
+                    <span class="orange">Pe</span> 3636<br>
+                    <span class="red">Vo</span> 2939</td>
+            </tr>
+            
+              <tr>
+                <td><img src="13.png" alt="" width="80px"></td>
+                <td class="seen-name">キュン 小坂菜緒</td>
+                <td>7秒おきに28%の確率で
+                    6秒間PERFECTの
+                    スコアを19%UP</td>
+                <td>all 10332<br>
+                    <span class="blue">Da</span> 2980<br>
+                    <span class="orange">Pe</span> 2963<br>
+                    <span class="red">Vo</span> 3959</td>
+            </tr>
+        </table>
+    </div>
+</div>
+    
+    
+    
+    <!--        A---------------------------------------------------> 
+<div class="sab2"><h3>A評価</h3>
+    <div class="deta-all">  
+        <table border="1" style="border-collapse: collapse">
+            <tr>
+                <th>ビジュアル</th>
+                <th>カード名</th>
+                <th class="skill">スキル</th>
+                <th>ステータス</th>
+            </tr>
+
+            <tr>
+                <td><img src="14.png" alt="" width="80px"></td>
+                <td class="seen-name">秋服 齊藤京子</td>
+                <td>8秒おきに16%の確率で7秒間PERFECTのスコア20%アップ</td>
+                <td>all 10305<br>
+                    <span class="blue">Da</span> 3723<br>
+                    <span class="orange">Pe</span> 2907<br>
+                    <span class="red">Vo</span> 3675</td>
+            </tr>
+            
+            <tr>
+                <td><img src="15.png" alt="" width="80px"></td>
+                <td class="seen-name">ｷﾀｲｼﾃｲﾅｲ 潮紗理菜</td>
+                <td>8秒おきに16%の確率で7秒間PERFECTのスコア20%アップ</td>
+                                        <td>all 10059<br>
+                    <span class="blue">Da</span> 2798<br>
+                    <span class="orange">Pe</span> 3018<br>
+                    <span class="red">Vo</span> 4243</td>
+            </tr>
+            
+            <tr>
+                <td><img src="16.png" alt="" width="80px"></td>
+                <td class="seen-name">共和国 平手友梨奈</td>
+                <td>8秒おきに16%の確率で7秒間PERFECTのスコア20%アップ</td>
+                                        <td>all 10038<br>
+                    <span class="blue">Da</span> 3039<br>
+                    <span class="orange">Pe</span> 2961<br>
+                    <span class="red">Vo</span> 4038</td>
+            </tr>
+            
+            <tr>
+                <td><img src="17.png" alt="" width="80px"></td>
+                <td class="seen-name">秋服 宮田愛萌</td>
+                <td>7秒おきに28%の確率で6秒間スコア12%アップ</td>
+                                        <td>all 10298<br>
+                    <span class="blue">Da</span> 2989<br>
+                    <span class="orange">Pe</span> 3637<br>
+                    <span class="red">Vo</span> 3672</td>
+            </tr>
+            
+            <tr>
+                <td><img src="19.png" alt="" width="80px"></td>
+                <td class="seen-name">全ﾂ'18 菅井友香</td>
+                <td>8秒おきに16%の確率で7秒間PERFECTのスコア20%アップ</td>
+                                        <td>all 9991<br>
+                    <span class="blue">Da</span> 3571<br>
+                    <span class="orange">Pe</span> 3485<br>
+                    <span class="red">Vo</span> 2935</td>
+            </tr>
+            
+            
+                <tr>
+                <td><img src="20.png" alt="" width="80px"></td>
+                <td class="seen-name">秋服 松平璃子</td>
+                <td>7秒おきに28%の確率で6秒間PERFECTとGREATのスコア13%アップ</td>
+                                        <td>all 9282<br>
+                    <span class="blue">Da</span> 2080<br>
+                    <span class="orange">Pe</span> 4174<br>
+                    <span class="red">Vo</span> 3028</td>
+            </tr>
+            
+         
+            <tr>
+                <td><img src="28.png" alt="" width="80px"></td>
+                <td class="seen-name">3rdYAL 藤吉夏鈴</td>
+                <td>7秒おきに28%の確率で3秒間スコア9%アップ</td>
+                                        <td>all 10723<br>
+                    <span class="blue">Da</span> ?<br>
+                    <span class="orange">Pe</span> ?<br>
+                    <span class="red">Vo</span> ?</td>
+            </tr>
+            
+        </table>
+    </div>
+</div>
+    
+    
+    
+    
+    
+    <!--        B--------------------------------------------------> 
+<div class="sab3"><h3>B評価</h3>
+    <div class="deta-all">  
+        <table border="1">
+            <tr>
+                <th>ビジュアル</th>
+                <th>カード名</th>
+                <th class="skill">スキル</th>
+                <th>ステータス</th>
+            </tr>
+
+            <tr>
+                <td><img src="18.png" alt="" width="80px"></td>
+                <td class="seen-name">キュン 佐々木美玲</td>
+                <td>7秒おきに28%の確率で6秒間PERFECTとGREATのスコア13%アップ</td>
+                <td>all 9919<br>
+                    <span class="blue">Da</span> 3034<br>
+                    <span class="orange">Pe</span> 2983<br>
+                    <span class="red">Vo</span> 3902</td>
+            </tr>
+            
+              <tr>
+                <td><img src="21.png" alt="" width="80px"></td>
+                <td class="seen-name">ｻｲﾏｼﾞｮ 齋藤冬優花</td>
+                <td>7秒おきに28%の確率で6秒間PERFECTとGREATのスコア13%アップ</td>
+                <td>all 9856<br>
+                    <span class="blue">Da</span> 3905<br>
+                    <span class="orange">Pe</span> 2997<br>
+                    <span class="red">Vo</span> 2914</td>
+            </tr>
+            
+            <tr>
+                <td><img src="22.png" alt="" width="80px"></td>
+                <td class="seen-name">全ﾂ'18 上村莉奈</td>
+                <td>7秒おきに28%の確率で6秒間スコア12%アップ</td>
+                <td>all 9993<br>
+                    <span class="blue">Da</span> 4128<br>
+                    <span class="orange">Pe</span> 2909<br>
+                    <span class="red">Vo</span> 2956</td>
+            </tr>
+            
+             <tr>
+                <td><img src="23.png" alt="" width="80px"></td>
+                <td class="seen-name">秋服 原田葵</td>
+                <td>8秒おきに17%の確率で5秒間スコア17%アップ</td>
+                <td>all 10282<br>
+                    <span class="blue">Da</span> 2981<br>
+                    <span class="orange">Pe</span> 3636<br>
+                    <span class="red">Vo</span> 3665</td>
+            </tr>
+            
+             <tr>
+                <td><img src="24.png" alt="" width="80px"></td>
+                <td class="seen-name">ｷﾀｲｼﾃｲﾅｲ 佐々木久美</td>
+                <td>8秒おきに16%の確率で5秒間PERFECTとGREATのスコア19%アップ</td>
+                <td>all 10090<br>
+                    <span class="blue">Da</span> 3028<br>
+                    <span class="orange">Pe</span> 3041<br>
+                    <span class="red">Vo</span> 4021</td>
+            </tr>
+            
+             <tr>
+            <td><img src="25.png" alt="" width="80px"></td>
+                <td class="seen-name">ガラ割 井上梨名</td>
+                <td>8秒おきに16%の確率で5秒間PERFECTとGREATのスコア19%アップ</td>
+                <td>all 10089<br>
+                    <span class="blue">Da</span> 3039<br>
+                    <span class="orange">Pe</span> 4248<br>
+                    <span class="red">Vo</span> 2802</td>
+            </tr>
+            
+             <tr>
+        <td><img src="26.png" alt="" width="80px"></td>
+                <td class="seen-name">新春 佐々木久美</td>
+                <td>8秒おきに17%の確率で5秒間スコア17%アップ</td>
+                <td>all 10189<br>
+                    <span class="blue">Da</span> 3103<br>
+                    <span class="orange">Pe</span> 3928<br>
+                    <span class="red">Vo</span> 3158</td>
+            </tr>
+            
+             <tr>
+        <td><img src="27.png" alt="" width="80px"></td>
+                <td class="seen-name">ガラ割 武元唯衣</td>
+                <td>8秒おきに17%の確率で5秒間スコア17%アップ</td>
+                <td>all 10095<br>
+                    <span class="blue">Da</span> 3405<br>
+                    <span class="orange">Pe</span> 3490<br>
+                    <span class="red">Vo</span> 3200</td>
+            </tr>
+        </table>
+    </div>
+</div>
+        
+        </div>
+  
+    
+    <br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br>
+    
+    
+    
+    
+    
+    
+     <script src="script01.js"></script>
+ </body>
+</html>
+            
