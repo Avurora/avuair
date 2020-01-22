@@ -1,0 +1,370 @@
+@charset "UTF-8";
+/* CSS Document */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    width: 410px;
+    background:#FCDADB;
+    -webkit-text-size-adjust:100%;
+}
+body{
+    background: #FFF;
+}
+p{
+    font-size: 11px;
+    line-height: 30px
+}
+h2{
+    text-align: center;
+    display: block;
+    margin: 30px;
+}
+h1{
+    color: #fff;
+    text-align: center;
+}
+.h1{
+    background-color: #77B8D3;
+    display: block;
+    padding: 20px;
+    width: 300px;
+    margin-left: 35px;
+}
+h3{
+    margin-left: 10px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+
+
+
+.green{
+    color: green;
+}
+.deta-all{
+    width: 390px;
+    margin-left: 10px;
+    text-align: center;
+}
+.deta-all{
+    font-size: 10px;
+}
+.skill{
+    width: 140px;
+}
+.seen-name{
+    width: 100px;
+}
+
+.blue{
+    color: blue;
+}
+.red{
+    color: red;
+}
+.yellow{
+    color: #B8C300;
+}
+.purple{
+    color: purple;
+}
+.orange{
+    color: orange;
+}
+.sab{
+     background: #C8FFDB;
+    padding:30px 0;
+}
+.sab h3{
+    margin-left: 10px;
+}
+.sab2{
+     background: #97FFBA;
+    padding:30px 0;
+}
+.sab2 h3{
+    margin-left: 10px;
+}
+
+.sab3{
+     background: #55FF8E;
+    padding:30px 0;
+}
+.sab3 h3{
+    margin-left: 10px;
+}
+
+
+
+
+.sab4{
+     background: #FFE7E7;
+    padding:30px 0;
+}
+.sab4 h3{
+    margin-left: 10px;
+}
+.sab5{
+     background:  #FFB7B8;
+    padding:30px 0;
+}
+.sab5 h3{
+    margin-left: 10px;
+}
+
+.sab6{
+     background: #FF6264;
+    padding:30px 0;
+}
+.sab6 h3{
+    margin-left: 10px;
+}
+
+
+
+
+.sab7{
+     background: #DCE7FF;
+    padding:30px 0;
+}
+.sab7 h3{
+    margin-left: 10px;
+}
+.sab8{
+     background: #B3C9FF;
+    padding:30px 0;
+}
+.sab8 h3{
+    margin-left: 10px;
+}
+
+.sab9{
+     background: #83A7FF;
+    padding:30px 0;
+}
+.sab9 h3{
+    margin-left: 10px;
+}
+
+
+
+.sab10{
+     background: #FFFCE3;
+    padding:30px 0;
+}
+.sab10 h3{
+    margin-left: 10px;
+}
+.sab11
+{
+     background: #FFFEC0;
+    padding:30px 0;
+}
+.sab11 h3{
+    margin-left: 10px;
+}
+
+.sab12{
+     background: #FFF49C;
+    padding:30px 0;
+}
+.sab12 h3{
+    margin-left: 10px;
+}
+
+
+.sab13{
+     background: #F1E9FF;
+    padding:30px 0;
+}
+.sab13 h3{
+    margin-left: 10px;
+}
+.sab14
+
+{
+     background: #E0CFFF;
+    padding:30px 0;
+}
+.sab14 h3{
+    margin-left: 10px;
+}
+
+.sab15{
+     background: #C8A9FF;
+    padding:30px 0;
+}
+.sab15 h3{
+    margin-left: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*ボタン指示---------------------------------*/
+.green-list{
+    display: none;
+}
+.red-list{
+    display:none;
+}
+.blue-list{
+    display:none;
+}
+.yellow-list{
+    display:none;
+}
+.purple-list{
+    display:none;
+}
+
+
+
+.fin{
+    width: 410px;
+    height: 60px;
+    background: #77B8D3;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+
+
+
+/*--ハンバーガー--------------------------------------------------------*/
+/*ヘッダーまわりはサイトに合わせて調整してください*/
+#nav-drawer {
+  position: relative;
+}
+
+/*チェックボックス等は非表示に*/
+.nav-unshown {
+  display:none;
+}
+
+/*アイコンのスペース*/
+
+/*ハンバーガーアイコンをCSSだけで表現*/
+
+/*閉じる用の薄黒カバー*/
+#nav-close {
+  display: none;/*はじめは隠しておく*/
+  position: fixed;
+  z-index: 99;
+  top: 0;/*全体に広がるように*/
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: black;
+  opacity: 0;
+  transition: .3s ease-in-out;
+}
+
+/*中身*/
+#nav-content {
+  overflow: auto;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9999;/*最前面に*/
+  width: 90%;/*右側に隙間を作る（閉じるカバーを表示）*/
+  max-width: 180px;/*最大幅（調整してください）*/
+  height: 100%;
+  background: #77B8D3;/*背景色*/
+  transition: .3s ease-in-out;/*滑らかに表示*/
+  -webkit-transform: translateX(-105%);
+  transform: translateX(-105%);/*左に隠しておく*/
+  opacity: 0.9;
+}
+
+/*チェックが入ったらもろもろ表示*/
+#nav-input:checked ~ #nav-close {
+  display: block;/*カバーを表示*/
+  opacity: .5;
+}
+
+#nav-input:checked ~ #nav-content {
+  -webkit-transform: translateX(0%);
+  transform: translateX(0%);/*中身を表示（右へスライド）*/
+  box-shadow: 6px 0 25px rgba(0,0,0,.15);
+}
+.fixed{
+    position: fixed;
+    bottom: 50px;
+    left: 300px;
+}
+#nav-content a{
+    margin: 20px;
+    display: block;
+    text-decoration: none;
+    color: #fff;
+}
+
+
+
+.afi table{
+    display: inline-block;
+}
+.afi{
+    text-align: center;
+    margin-top:30px;
+}
+.cd{
+    margin-bottom: 30px;
+}
+
+
+.bg-red{
+    background-color: #FFE9E9;
+}
+.bg-yellow{
+    background-color: #FDFFBB;
+}
+.bg-blue{
+    background-color: #A4D1FF;
+}
+.bg-purple{
+    background-color: #F1D7FF;
+}
+.bg-green{
+    background-color: #DAFFDB;
+}
+h5{
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.main-p{
+    margin: 30px;
+    font-size: 15px;
+    text-align: center;
+}
+
+
+.footer{
+    height: 60px;
+    width: 410px;
+    background-color: #77B8D3;
+    color: #fff;
+    font-size: 10px;
+    text-align: center;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding-top: 20px;
+    margin-top: 30px;
+}
+.footer p{
+    line-height: 15px;
+}
