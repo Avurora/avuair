@@ -190,6 +190,15 @@ h1{
 /*---------------------------------------------------------------------*/
 
 
-
+.afi table{
+    display: inline-block;
+}
+.afi{
+    text-align: center;
+    margin-top: 0px;
+}
+.cd{
+    margin-bottom: 30px;
+}
 
 
